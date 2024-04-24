@@ -18,6 +18,7 @@ The Islamic Prayer Clock is an innovative digital clock designed to assist Musli
  ![logo](https://github.com/Ch-Jameel/Islamic-Clock-Project/blob/main/Screenshot_223.png)
 - **Additional Prayer Times:** Includes times for Jumu'ah, Imsak, and Zawal.
 - **Countdown Timers:** Provides a 2-minute countdown for each prayer time, helping users prepare for prayers.
+-  **Beep Sound:**  Countdown start with the beep sound 
  ![logo](https://github.com/Ch-Jameel/Islamic-Clock-Project/blob/main/Screenshot_224.png)
 
   ![logo](https://github.com/Ch-Jameel/Islamic-Clock-Project/blob/main/Screenshot_226.png)
