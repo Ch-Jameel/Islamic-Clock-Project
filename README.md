@@ -15,7 +15,7 @@ The Islamic Prayer Clock is an innovative digital clock designed to assist Musli
 ## Detailed Features
 ### Prayer Times and Countdowns
 - **Five Daily Prayers:** Displays all five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha) with live updates.
-- ![logo](https://github.com/Ch-Jameel/Islamic-Clock-Project/blob/main/Screenshot (223).png)
+- ![logo](https://github.com/Ch-Jameel/Islamic-Clock-Project/blob/main/Screenshot_223.png)
 
 - **Additional Prayer Times:** Includes times for Jumu'ah, Imsak, and Zawal.
 - **Countdown Timers:** Provides a 2-minute countdown for each prayer time, helping users prepare for prayers.
